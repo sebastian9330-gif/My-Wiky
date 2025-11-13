@@ -26,7 +26,38 @@ https://sebastian9330-gif.github.io/My-Pagina/
 
 ---
 
-Punto 4 
+##  Tarea 1 - Punto 4 
 
-Respuesta
+## Temas:
+
+Hartware 
+Software
+Los Lenguajes de Programación - Python 
+Variables, Valores y Operadores
+
+
+
+Primera entrada :
+Explica los temas vistos en clase (ej.: qué es un programa, variables, etc.).
+Incluye un ejemplo de código en Python relacionado.
+Añade una reflexión personal sobre lo aprendido.
+Puedes escribir en README.md, index.md o un archivo de blog.
+Ejemplo de bloque de código en Markdown
+```python
+x = 42
+mensaje = f"El valor de x es {x}"
+print(mensaje)
+```
+
+
+
+
+# Referencias de IA
+
+ChatGPT: Creación de ramas https://chatgpt.com/s/t_6915448158708191b2bc0034200a8376
+
+
+
+
+
 
