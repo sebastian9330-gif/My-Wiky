@@ -1,2 +1,2 @@
-# Mi primer reposistorio 
+# Mi Primer Repositorio
 
