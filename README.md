@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Sebastian Arboleda
 
-Bienvenido a mi primera página personal creada con GitHub Pages. 🚀  
+Bienvenido a mi primera página personal creada con GitHub Pages. 🚀 
 Este proyecto es un espacio donde practico y comparto lo que voy aprendiendo sobre desarrollo web y programación.
 
 ---
@@ -26,5 +26,7 @@ Este proyecto es un espacio donde practico y comparto lo que voy aprendiendo sob
 
 ---
 
+Punto 4 
 
-✨ _Gracias por visitar mi proyecto. ¡Sigue aprendiendo y creando!_
+Respuesta
+
