@@ -1,6 +1,6 @@
-# Pagina personal Sebastian A.
+# Pagina personal - Sebastian A.
 
-# 👋 ¡Hola! Soy [Sebastian Arboleda]
+# 👋 ¡Hola! Soy Sebastian Arboleda
 
 Bienvenido a mi primera página personal creada con GitHub Pages. 🚀  
 Este proyecto es un espacio donde practico y comparto lo que voy aprendiendo sobre desarrollo web y programación.
