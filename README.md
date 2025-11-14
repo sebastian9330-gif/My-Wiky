@@ -27,7 +27,9 @@ Este proyecto es un espacio donde practico y comparto lo que voy aprendiendo sob
 ---
 
 ##  PENSAMIENTO ALGORÍTMICO
-
+<details>
+  <summary>Ver instrucciones</summary>
+  
 ## Temas
 
 ### Hardware 
@@ -48,10 +50,10 @@ Una **Variable** es el nombre que se le da al hacer referencia a un valor que se
 Un **Valor** es una unidad de información que puede ser almacenada y manipulada por un programa.
 Los valores pueden ser de distintos tipos de datos, como:
 
-Números enteros (int): 3, -12, 250
-Números decimales (float): 3.14, -0.001, 2.5
-Cadenas de texto (str): "Hola", 'Python'
-Valores lógicos (bool): True, False
+- Números enteros (int): 3, -12, 250
+- Números decimales (float): 3.14, -0.001, 2.5
+- Cadenas de texto (str): "Hola", 'Python'
+- Valores lógicos (bool): True, False
 
 
 **Ejemplos código - Operadores**
@@ -62,8 +64,8 @@ print(a, b)
 
 Resultado
 
-5
-7
+- 5
+- 7
 
 **Ejemplo *Google Colaboratory***
 
